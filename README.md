@@ -2,13 +2,35 @@
 
 <img src="https://raw.githubusercontent.com/malhotra1432/malhotra1432/master/assets/devs.gif" width="1000px">
 
-[![Prabhat's github stats](https://github-readme-stats.vercel.app/api?username=malhotra1432&show_icons=true&theme=cobalt)](https://github.com/malhotra1432/github-readme-stats)
+<details>
+  <summary>
+    GitHub Stats
+  </summary>
+  <a href="https://github.com/malhotra1432/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=malhotra1432&show_icons=true&theme=cobalt" alt="Prabhat Malhotra's GitHub Stats"/>
+  </a>
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malhotra1432&layout=compact&theme=cobalt&langs_count=10)](https://github.com/malhotra1432/github-readme-stats)
+<details>
+  <summary>
+    Top Languages
+  </summary>
+  <a href="https://github.com/malhotra1432/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotra1432&layout=compact&theme=cobalt&langs_count=10" alt="Prabhat Malhotra's GitHub Top Languages"/>
+  </a>
+</details>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=spring_aws_infra_setup&show_owner=true)](https://github.com/malhotra1432/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=tdd-with-springboot-java&show_owner=true)](https://github.com/malhotra1432/github-readme-stats)
+<details>
+  <summary>
+    Current Repos
+  </summary>
+  <a href="https://github.com/malhotra1432/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=spring_aws_infra_setup&show_owner=true" alt="Prabhat Malhotra's Repos"/>
+  </a>
+  <a href="https://github.com/malhotra1432/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=tdd-with-springboot-java&show_owner=true" alt="Prabhat Malhotra's Repos"/>
+  </a>
+</details>
 
 <!--
 Here are some ideas to get you started:
