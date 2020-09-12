@@ -6,9 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malhotra1432&layout=compact&theme=cobalt&langs_count=10)](https://github.com/malhotra1432/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=spring_aws_infra_setup)](https://github.com/malhotra1432/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=spring_aws_infra_setup&show_owner=true)](https://github.com/malhotra1432/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=tdd-with-springboot-java)](https://github.com/malhotra1432/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=tdd-with-springboot-java&show_owner=true)](https://github.com/malhotra1432/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
