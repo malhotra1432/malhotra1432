@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/malhotra1432/malhotra1432/master/assets/devs.gif" width="400px">
 
-[![Prabhat's github stats](https://github-readme-stats.vercel.app/api?username=malhotra1432)](https://github.com/malhotra1432/github-readme-stats)
+[![Prabhat's github stats](https://github-readme-stats.vercel.app/api?username=malhotra1432&show_icons=true)](https://github.com/malhotra1432/github-readme-stats)
 <!--
 Here are some ideas to get you started:
 
