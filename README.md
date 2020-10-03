@@ -1,4 +1,4 @@
-# Ciao folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Ciao! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img src="https://raw.githubusercontent.com/malhotra1432/malhotra1432/master/assets/devs.gif" width="1000px">
 
@@ -17,18 +17,6 @@
   </summary>
   <a href="https://github.com/malhotra1432/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotra1432&layout=compact&theme=cobalt&langs_count=10" alt="Prabhat Malhotra's GitHub Top Languages"/>
-  </a>
-</details>
-
-<details>
-  <summary>
-    Current Repos
-  </summary>
-  <a href="https://github.com/malhotra1432/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=spring_aws_infra_setup&show_owner=true" alt="Prabhat Malhotra's Repos"/>
-  </a>
-  <a href="https://github.com/malhotra1432/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malhotra1432&theme=cobalt&repo=tdd-with-springboot-java&show_owner=true" alt="Prabhat Malhotra's Repos"/>
   </a>
 </details>
 
