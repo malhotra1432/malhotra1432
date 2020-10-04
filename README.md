@@ -1,5 +1,6 @@
 # Ciao! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prabhat Malhotra's Dev Profile" width="100px"/>
 <img src="https://raw.githubusercontent.com/malhotra1432/malhotra1432/master/assets/devs.gif" width="1000px">
 
 <details>
